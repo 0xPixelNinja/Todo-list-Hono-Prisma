@@ -1,18 +1,18 @@
 # Todo List - Hono & Prisma
 
-This project is a simple assignment to get familiar with working with **Hono** and **Prisma**. It demonstrates basic usage and provides endpoints to interact with the todo list.
+This project is a simple assignment to get familiar with working with Hono and Prisma. It demonstrates basic usage and provides endpoints to interact with the todo list.
 
-This is a minimal Todo list API built with:
-• TypeScript
-• Hono for the HTTP server framework
-• Prisma as the ORM
-• PostgreSQL as the database
+## Tech Stack:
+- **TypeScript**
+- **Hono** for the HTTP server framework
+- **Prisma** as the ORM
+- **PostgreSQL** as the database
 
-Features:
-• Create a task
-• Retrieve tasks
-• Update tasks (including marking them as complete)
-• Delete tasks
+## Features:
+- Create a task
+- Retrieve tasks
+- Update tasks (including marking them as complete)
+- Delete tasks
 
 ## Postman Endpoints
 
