@@ -12,4 +12,4 @@ You can view and test the API endpoints using Postman by following the link belo
 
 Watch the video below for a demonstration of the project and its functionality:
 
-[*Demo Video**](https://drive.google.com/file/d/1qf8t9TAOQncskbpnyDUulCCbrNEbKFNJ/preview)
+[**Demo Video**](https://drive.google.com/file/d/1qf8t9TAOQncskbpnyDUulCCbrNEbKFNJ/preview)
